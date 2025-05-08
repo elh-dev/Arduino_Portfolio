@@ -1,0 +1,2 @@
+DHT11 & Soil Moisture Sensor Monitoring System
+This Arduino-based project reads temperature and humidity data from a DHT11 sensor and monitors soil moisture levels. The system features error handling mechanisms, including retry logic for failed sensor readings and fallback to last known values to ensure reliable data collection. Sensor readings are displayed via serial output, providing essential environmental data for monitoring purposes.
